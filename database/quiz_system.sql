@@ -3,11 +3,6 @@
 -- Module: CS5054NP Advanced Programming and Technologies
 -- Database: MySQL (XAMPP)
 -- =====================================================================
--- Setup:
--- 1. Open phpMyAdmin (http://localhost/phpmyadmin)
--- 2. Click "Import" tab and import this file, OR
--- 3. Run the SQL below in the SQL tab.
--- =====================================================================
 
 DROP DATABASE IF EXISTS quiz_system;
 CREATE DATABASE quiz_system CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
