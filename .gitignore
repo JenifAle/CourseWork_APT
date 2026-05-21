@@ -1,0 +1,38 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven
+target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Compiled classes
+*.class
+
+# WAR/JAR files
+*.war
+*.jar
+
+# Environment variables (contains sensitive data like passwords)
+# .env.example is safe to commit (it's a template)
+# But .env should NEVER be committed
+.env
+.env.local
+.env.*.local
+
